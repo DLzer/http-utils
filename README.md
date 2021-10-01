@@ -8,7 +8,7 @@ Utility classes and constants to provide quick reference usage for request metho
 ## Installation
 
 ```bash
-compose require dlzer/http-util
+compose require dlzer/http-utils
 ```
 
 ## Usage

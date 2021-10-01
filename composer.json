@@ -1,0 +1,21 @@
+{
+    "name": "dlzer/http-util",
+    "description": "Utility classes and constants for use with PSR-7",
+    "keywords": ["psr", "psr-7", "http", "http-message", "request", "response"],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dlzer\\Http\\Message\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DLzer",
+            "email": "dillon.lomnitzer@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^5.3 || ^7.0 || ^8.0"
+    }
+}

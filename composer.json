@@ -1,5 +1,5 @@
 {
-    "name": "dlzer/http-util",
+    "name": "dlzer/http-utils",
     "description": "Utility classes and constants for use with PSR-7",
     "keywords": ["psr", "psr-7", "http", "http-message", "request", "response"],
     "license": "MIT",

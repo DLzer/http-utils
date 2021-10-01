@@ -1,4 +1,7 @@
 # PSR Http Message Utilities
+![GitHub](https://img.shields.io/github/license/DLzer/http-utils?label=License&style=flat-square)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/DLzer/http-utils?style=flat-square)
+
 
 Utility classes and constants to provide quick reference usage for request methods and responses.
 

@@ -31,13 +31,13 @@ public function withJson(
 }
 
 // Usage
-$data = ["connection" => true]
+$data = ["connection" => true];
 return $this->responder->withJson(
     $response, // The response interface
     StatusCodeInterface::STATUS_OK // The status code interface
     StatusCodeMessage::STATUS_OK // The status message interface: "OK"
     $data // The response data
-)
+);
 
 ```
 
